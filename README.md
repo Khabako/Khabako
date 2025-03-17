@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am a final year Computer Science student from the Northwest University and I'm extremely passionate about software development and Machine learning.<br><<br>- 📚 I'm currently learning <b>DevOps</b>,<b>Cloud Computing</b>,<b>Artificial Intelligence and Machine Learning</b>,<b>APIs and Web Development</b><br>- ⚡ In my free time I ironically hug a tree</p>
+<p align="left">I am a final year Computer Science student from the Northwest University and I'm extremely passionate about software development and Machine learning.<br><<br>- 📚 I'm currently learning <b>DevOps</b>,<b>Cloud Computing</b>,<b>Artificial Intelligence and Machine Learning</b>,<b>APIs and Web Development</b><br>- ⚡ In my free time I ironically go outside and hug a tree</p>
 
 ###
 
